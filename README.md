@@ -275,5 +275,5 @@ Netflix Recommendation Assistant berhasil mengimplementasikan teknologi:
 | | |
 |---|---|
 | **Nama** | Sahrul Efendi |
-| **Mata Kuliah** | Praktikum Artificial Intelligence |
+| **Mata Kuliah** | Praktikum Natural Languange Processing |
 | **Topik Proyek** | Sistem Rekomendasi Film Netflix Menggunakan LangChain, LangGraph, dan LangSmith |
